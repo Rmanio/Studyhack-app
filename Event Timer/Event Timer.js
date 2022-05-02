@@ -12,7 +12,7 @@ function getValues(){
             clearInterval(countDownFunction);
             document.getElementById("timer").innerHTML = "Countdown is Stopped";
         }
-
+//commit test
     if ((day >= 1 && day <= 31) && (month <= 12 && month >= 1) && (year > 2021)){
         var countDownDate = new Date(month + " " + day + " " + year + " " + hours + ":" + minutes + ":" + seconds).getTime();
 
