@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="618f1b31-8205-4155-a556-466eed34b90f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Event Timer/Event Timer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Event Timer/Event Timer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event Timer/Event Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Event Timer/Event Timer.js" afterDir="false" />
+    <list default="true" id="618f1b31-8205-4155-a556-466eed34b90f" name="Changes" comment="Delete Math calculator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +55,16 @@
       <option name="presentableId" value="Default" />
       <updated>1651425711133</updated>
       <workItem from="1651425716144" duration="24000" />
-      <workItem from="1652022672877" duration="2549000" />
+      <workItem from="1652022672877" duration="3362000" />
     </task>
+    <task id="LOCAL-00001" summary="Delete Math calculator">
+      <created>1652027252865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652027252865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +82,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Delete Math calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Math calculator" />
   </component>
 </project>
