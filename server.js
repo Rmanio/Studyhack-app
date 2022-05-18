@@ -41,6 +41,6 @@ app.get('/profile',function(req,res) {
     res.sendfile(path.join(__dirname + '/public/view/profilepage.html'));
 });
 
-app.listen(process.env.port || 3000);
+app.listen(process.env.port || 8080);
 
-console.log('Running at http://localhost:3000');
+console.log('Running at http://localhost:8080');
