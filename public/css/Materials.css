@@ -5,8 +5,11 @@ body{
 .container-css a{
     float: bottom;
 }
-.col-css{
+.col-books{
+    width: px;
+}
 
+.col-css{
     height: auto;
 }
 .container-css img{
